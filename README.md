@@ -1,4 +1,5 @@
 Malware Scanner:
+
 Speed - Depends on your dog-shit Wi-Fi 
 
 Accuracy - >= 100%. It uses VirusTotal which scans the sample through 70+ antivirus engines
