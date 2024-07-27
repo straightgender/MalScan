@@ -1,6 +1,8 @@
 Malware Scanner:
 Speed - Depends on your dog-shit Wi-Fi 
+
 Accuracy - >= 100%. It uses VirusTotal which scans the sample through 70+ antivirus engines
+
 Complexity - Easy peeze, lemon squeezy. Just change directory in Main.main to whatever you want
 
 PRACTICAL USE:
